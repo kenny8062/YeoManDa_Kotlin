@@ -31,14 +31,13 @@
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Yeomanda_Kotlin"
         android:usesCleartextTraffic="true" >
-        <activity
-            android:name="com.example.yeomanda_kotlin.SignUpActivity1"
-            android:exported="false" />
+        <activity android:name="com.example.yeomanda_kotlin.SignUp.SignUpActivity1" />
         <activity
             android:name="com.example.yeomanda_kotlin.LoginActivity"
             android:exported="true" >
@@ -49,6 +48,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.yeomanda_kotlin.MainActivity" />
+        <activity android:name="com.example.yeomanda_kotlin.SignUp.SignUpActivity2" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"

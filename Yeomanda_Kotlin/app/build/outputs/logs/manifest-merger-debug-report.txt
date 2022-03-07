@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\LEO\.gradle\caches\transforms-3\b1354bede2598e7e34b83b2d0073bde0\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\58f163f5aee3b788bfafa9753e7e9dd7\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:2:1-21:12
@@ -78,20 +78,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LEO\.gradle\cach
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\a964b5a7d919e0f3fe29ef519d55683d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\093d31079f7fd7ceeb644e7c8b891c11\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\LEO\.gradle\caches\transforms-3\8e1328e276642d926de080e2bb5b15f7\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
 		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-36:12
+		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:1-37:12
 		INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:2:11-69
@@ -160,7 +160,7 @@ ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src
 	android:name
 		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:11:22-79
 application
-ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:13:5-34:19
+ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:13:5-35:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\58f163f5aee3b788bfafa9753e7e9dd7\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
@@ -229,6 +229,8 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LEO\.gradle\ca
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LEO\.gradle\caches\transforms-3\02c7adc57a98c3c8ffc7eeb7164a50e3\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\5aa52f2a12735ac4f0d99986e8355687\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\5aa52f2a12735ac4f0d99986e8355687\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:20:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\LEO\.gradle\caches\transforms-3\b62df86180bdd9198003ce8c180760ec\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
@@ -242,15 +244,13 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\LEO\.gradle\caches
 	android:allowBackup
 		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:20:9-53
+		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:19:9-53
 	android:usesCleartextTraffic
-		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:19:9-44
-activity#com.example.yeomanda_kotlin.SignUpActivity1
-ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:21:9-23:40
-	android:exported
-		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:23:13-37
+		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:21:9-44
+activity#com.example.yeomanda_kotlin.SignUp.SignUpActivity1
+ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:22:9-23:53
 	android:name
-		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:22:13-44
+		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:23:13-51
 activity#com.example.yeomanda_kotlin.LoginActivity
 ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:exported
@@ -271,6 +271,10 @@ activity#com.example.yeomanda_kotlin.MainActivity
 ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:33:9-59
 	android:name
 		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:33:19-47
+activity#com.example.yeomanda_kotlin.SignUp.SignUpActivity2
+ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:34:9-69
+	android:name
+		ADDED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:34:19-57
 uses-sdk
 INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml

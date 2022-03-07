@@ -2798,6 +2798,7 @@ id baseline
 id beginOnFirstDraw
 id beginning
 id bestChoice
+id birthEdt
 id blocking
 id bottom
 id bounce
@@ -2812,6 +2813,8 @@ id carryVelocity
 id center
 id center_horizontal
 id center_vertical
+id certNum
+id certificationBtn
 id chain
 id chain2
 id chains
@@ -2881,6 +2884,7 @@ id easeOut
 id east
 id edit_query
 id elastic
+id emailEdt
 id end
 id endToStart
 id enterAlways
@@ -2937,6 +2941,10 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id joinMyMainImage
+id joinMySubImage1
+id joinMySubImage2
+id joinProfileText
 id join_btn
 id jumpToEnd
 id jumpToStart
@@ -2952,6 +2960,7 @@ id linear
 id listMode
 id list_item
 id login_btn
+id mBtn
 id masked
 id match_constraint
 id match_parent
@@ -3008,6 +3017,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id nameEdt
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3018,6 +3028,8 @@ id navigation_header_container
 id never
 id neverCompleteToEnd
 id neverCompleteToStart
+id nextBtn
+id nextBtn3
 id noScroll
 id noState
 id none
@@ -3027,6 +3039,7 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id off
+id okBtn
 id on
 id onInterceptTouchReturnSwipe
 id outline
@@ -3038,6 +3051,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id passwordEdt
 id password_edt
 id password_toggle
 id path
@@ -3089,6 +3103,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id signUpLinearLayout
 id sin
 id skipCollapsed
 id skipped
@@ -3185,6 +3200,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id wBtn
 id west
 id wide
 id withText
@@ -3284,6 +3300,7 @@ layout abc_tooltip
 layout activity_login
 layout activity_main
 layout activity_sign_up1
+layout activity_sign_up2
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

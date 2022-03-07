@@ -2797,6 +2797,7 @@ int id baseline 0x7f09005a
 int id beginOnFirstDraw 0x7f09005b
 int id beginning 0x7f09005c
 int id bestChoice 0x7f09005d
+int id birthEdt 0x7f0901eb
 int id blocking 0x7f09005e
 int id bottom 0x7f09005f
 int id bounce 0x7f090060
@@ -2811,6 +2812,8 @@ int id carryVelocity 0x7f090068
 int id center 0x7f090069
 int id center_horizontal 0x7f09006a
 int id center_vertical 0x7f09006b
+int id certNum 0x7f0901ec
+int id certificationBtn 0x7f0901ed
 int id chain 0x7f09006c
 int id chain2 0x7f09006d
 int id chains 0x7f09006e
@@ -2880,6 +2883,7 @@ int id easeOut 0x7f0900ad
 int id east 0x7f0900ae
 int id edit_query 0x7f0900af
 int id elastic 0x7f0900b0
+int id emailEdt 0x7f0901ee
 int id end 0x7f0900b1
 int id endToStart 0x7f0900b2
 int id enterAlways 0x7f0900b3
@@ -2936,6 +2940,10 @@ int id item2 0x7f0900e5
 int id item3 0x7f0900e6
 int id item4 0x7f0900e7
 int id item_touch_helper_previous_elevation 0x7f0900e8
+int id joinMyMainImage 0x7f0901ef
+int id joinMySubImage1 0x7f0901f0
+int id joinMySubImage2 0x7f0901f1
+int id joinProfileText 0x7f0901f2
 int id join_btn 0x7f0900e9
 int id jumpToEnd 0x7f0900ea
 int id jumpToStart 0x7f0900eb
@@ -2951,6 +2959,7 @@ int id linear 0x7f0900f4
 int id listMode 0x7f0900f5
 int id list_item 0x7f0900f6
 int id login_btn 0x7f0900f7
+int id mBtn 0x7f0901f3
 int id masked 0x7f0900f8
 int id match_constraint 0x7f0900f9
 int id match_parent 0x7f0900fa
@@ -3007,6 +3016,7 @@ int id mtrl_picker_text_input_range_start 0x7f09012c
 int id mtrl_picker_title_text 0x7f09012d
 int id mtrl_view_tag_bottom_padding 0x7f09012e
 int id multiply 0x7f09012f
+int id nameEdt 0x7f0901f4
 int id navigation_bar_item_active_indicator_view 0x7f090130
 int id navigation_bar_item_icon_container 0x7f090131
 int id navigation_bar_item_icon_view 0x7f090132
@@ -3017,6 +3027,8 @@ int id navigation_header_container 0x7f090136
 int id never 0x7f090137
 int id neverCompleteToEnd 0x7f090138
 int id neverCompleteToStart 0x7f090139
+int id nextBtn 0x7f0901f5
+int id nextBtn3 0x7f0901f6
 int id noScroll 0x7f09013a
 int id noState 0x7f09013b
 int id none 0x7f09013c
@@ -3026,6 +3038,7 @@ int id notification_background 0x7f09013f
 int id notification_main_column 0x7f090140
 int id notification_main_column_container 0x7f090141
 int id off 0x7f090142
+int id okBtn 0x7f0901f7
 int id on 0x7f090143
 int id onInterceptTouchReturnSwipe 0x7f090144
 int id outline 0x7f090145
@@ -3037,6 +3050,7 @@ int id parent 0x7f09014a
 int id parentPanel 0x7f09014b
 int id parentRelative 0x7f09014c
 int id parent_matrix 0x7f09014d
+int id passwordEdt 0x7f0901f8
 int id password_edt 0x7f09014e
 int id password_toggle 0x7f09014f
 int id path 0x7f090150
@@ -3088,6 +3102,7 @@ int id shortcut 0x7f09017d
 int id showCustom 0x7f09017e
 int id showHome 0x7f09017f
 int id showTitle 0x7f090180
+int id signUpLinearLayout 0x7f0901f9
 int id sin 0x7f090181
 int id skipCollapsed 0x7f090182
 int id skipped 0x7f090183
@@ -3184,6 +3199,7 @@ int id view_tree_saved_state_registry_owner 0x7f0901dd
 int id view_tree_view_model_store_owner 0x7f0901de
 int id visible 0x7f0901df
 int id visible_removing_fragment_view_tag 0x7f0901e0
+int id wBtn 0x7f0901fa
 int id west 0x7f0901e1
 int id wide 0x7f0901e2
 int id withText 0x7f0901e3
@@ -3283,6 +3299,7 @@ int layout abc_tooltip 0x7f0c001b
 int layout activity_login 0x7f0c001c
 int layout activity_main 0x7f0c001d
 int layout activity_sign_up1 0x7f0c001e
+int layout activity_sign_up2 0x7f0c0076
 int layout custom_dialog 0x7f0c001f
 int layout design_bottom_navigation_item 0x7f0c0020
 int layout design_bottom_sheet_dialog 0x7f0c0021

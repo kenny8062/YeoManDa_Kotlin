@@ -53,7 +53,7 @@
 26-->[com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\c915700d0a1f806153dd2ff4315da204\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:22-76
 27
 28    <application
-28-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:13:5-34:19
+28-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:13:5-35:19
 29        android:allowBackup="true"
 29-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:14:9-35
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -63,41 +63,43 @@
 32-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:15:9-43
 33        android:label="@string/app_name"
 33-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:16:9-41
-34        android:roundIcon="@mipmap/ic_launcher_round"
-34-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:17:9-54
-35        android:supportsRtl="true"
-35-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:18:9-35
-36        android:testOnly="true"
-37        android:theme="@style/Theme.Yeomanda_Kotlin"
-37-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:20:9-53
-38        android:usesCleartextTraffic="true" >
-38-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:19:9-44
-39        <activity
-39-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:21:9-23:40
-40            android:name="com.example.yeomanda_kotlin.SignUpActivity1"
-40-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:22:13-44
-41            android:exported="false" />
-41-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:23:13-37
-42        <activity
-42-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:24:9-32:20
-43            android:name="com.example.yeomanda_kotlin.LoginActivity"
-43-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:25:13-42
-44            android:exported="true" >
-44-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:26:13-36
-45            <intent-filter>
-45-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:27:13-31:29
-46                <action android:name="android.intent.action.MAIN" />
-46-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:28:17-69
-46-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:28:25-66
-47
-48                <category android:name="android.intent.category.LAUNCHER" />
-48-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:30:17-77
-48-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:30:27-74
-49            </intent-filter>
-50        </activity>
-51        <activity android:name="com.example.yeomanda_kotlin.MainActivity" />
-51-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:33:9-59
-51-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:33:19-47
+34        android:requestLegacyExternalStorage="true"
+34-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:20:9-52
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:17:9-54
+36        android:supportsRtl="true"
+36-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:18:9-35
+37        android:testOnly="true"
+38        android:theme="@style/Theme.Yeomanda_Kotlin"
+38-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:19:9-53
+39        android:usesCleartextTraffic="true" >
+39-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:21:9-44
+40        <activity android:name="com.example.yeomanda_kotlin.SignUp.SignUpActivity1" />
+40-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:22:9-23:53
+40-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:23:13-51
+41        <activity
+41-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:24:9-32:20
+42            android:name="com.example.yeomanda_kotlin.LoginActivity"
+42-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:25:13-42
+43            android:exported="true" >
+43-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:26:13-36
+44            <intent-filter>
+44-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:27:13-31:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:28:17-69
+45-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:28:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:30:17-77
+47-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:30:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity android:name="com.example.yeomanda_kotlin.MainActivity" />
+50-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:33:9-59
+50-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:33:19-47
+51        <activity android:name="com.example.yeomanda_kotlin.SignUp.SignUpActivity2" />
+51-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:34:9-69
+51-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:34:19-57
 52
 53        <service
 53-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:8:9-14:19

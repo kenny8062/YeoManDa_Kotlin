@@ -12,6 +12,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import com.example.yeomanda_kotlin.Retrofit.ResponseDto.LoginResponseDto
 import com.example.yeomanda_kotlin.Retrofit.RetrofitService
+import com.example.yeomanda_kotlin.SignUp.SignUpActivity1
 import com.google.firebase.messaging.FirebaseMessaging
 import retrofit2.Call
 import retrofit2.Callback
@@ -55,7 +56,7 @@ class LoginActivity : AppCompatActivity() {
         val joinBtn = findViewById<Button>(R.id.join_btn)
         val loginBtn = findViewById<Button>(R.id.login_btn)
         joinBtn.setOnClickListener {
-            var intent =Intent(this,SignUpActivity1::class.java)
+            var intent =Intent(this, SignUpActivity1::class.java)
             startActivity(intent)
         }
 

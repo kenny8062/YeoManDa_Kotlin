@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-analytics-ktx:20.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22a4a072ce10ec3fc21fb7ee402f3632/jetified-firebase-analytics-ktx-20.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ef78d70981324c4233716cee3dc25d67/transformed/jetified-firebase-analytics-ktx-20.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3ff6b028d792d9ed4e2e04fe6cde6a96/transformed/jetified-firebase-analytics-ktx-20.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3ff6b028d792d9ed4e2e04fe6cde6a96/transformed/jetified-firebase-analytics-ktx-20.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3ff6b028d792d9ed4e2e04fe6cde6a96/transformed/jetified-firebase-analytics-ktx-20.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-analytics-ktx/20.1.0/ace98f39b262c59be4be4d52b871d1ba5dfff723/firebase-analytics-ktx-20.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

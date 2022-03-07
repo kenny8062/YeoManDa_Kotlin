@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">202145906201-8iir7nbr1mvq5jui4m073099dgs4gbtj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">202145906201</string>
+    <string name="google_api_key" translatable="false">AIzaSyCSvlAjqpSSBQtfWQpjWQEo-BiRIb-lhuk</string>
+    <string name="google_app_id" translatable="false">1:202145906201:android:23213202dfd964d3acb488</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCSvlAjqpSSBQtfWQpjWQEo-BiRIb-lhuk</string>
+    <string name="google_storage_bucket" translatable="false">yeomanda-project.appspot.com</string>
+    <string name="project_id" translatable="false">yeomanda-project</string>
+</resources>

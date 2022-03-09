@@ -2867,6 +2867,7 @@ id customPanel
 id customTeamName
 id customTravelDate
 id cut
+id cv_myMainImage
 id dark
 id date_picker_actions
 id decelerate
@@ -2903,6 +2904,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editMyProfileBtn
 id edit_query
 id elastic
 id emailEdt
@@ -2960,6 +2962,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id image_edit_profile
 id immediateStop
 id included
 id info
@@ -3051,8 +3054,15 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id myBirth
+id myEmail
 id myFavoriteTeamListView
 id myFavoriteTeamProfileListView
+id myImage1
+id myImage2
+id myMainImage
+id myName
+id mySex
 id nameEdt
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
@@ -3353,6 +3363,7 @@ layout activity_login
 layout activity_main
 layout activity_my_favorite_list
 layout activity_my_favorite_team_profile
+layout activity_my_profile
 layout activity_person_info
 layout activity_select_image
 layout activity_sign_up1

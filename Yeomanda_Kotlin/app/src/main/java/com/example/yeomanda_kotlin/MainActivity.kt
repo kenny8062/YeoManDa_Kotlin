@@ -141,26 +141,33 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnMarker
 
 
         cancelTravel.setOnClickListener {
-            /*
+
             val builder = AlertDialog.Builder(context)
             builder.setMessage("게시판 등록을 취소하시겠습니까?")
             builder.setPositiveButton("확인") { dialog, id -> // User clicked OK button
-                retrofitClient = RetrofitClient()
-                val withoutDataResponseDto: WithoutDataResponseDto =
-                    retrofitClient.deleteBoard(myToken)
-                while (withoutDataResponseDto == null) {
-                    Log.d("error", " withoutDataResponseDto is null")
-                }
-                if (withoutDataResponseDto.getSuccess()) {
-                    val intent = intent
-                    finish()
-                    startActivity(intent)
-                }
-                Toast.makeText(
-                    applicationContext,
-                    withoutDataResponseDto.getMessage(),
-                    Toast.LENGTH_SHORT
-                ).show()
+                RetrofitService.retrofitInterface.deleteBoard(myToken).enqueue(object : Callback<WithoutDataResponseDto>{
+                    override fun onResponse(
+                        call: Call<WithoutDataResponseDto>,
+                        response: Response<WithoutDataResponseDto>
+                    ) {
+
+                        if (response.body()?.success == true) {
+                            val intent = intent
+                            finish()
+                            startActivity(intent)
+                        }
+                        Toast.makeText(
+                            applicationContext,
+                            response.body()?.message,
+                            Toast.LENGTH_SHORT
+                        ).show()
+                    }
+
+                    override fun onFailure(call: Call<WithoutDataResponseDto>, t: Throwable) {
+                        Log.d("error", t.message.toString())
+                    }
+
+                })
             }
             builder.setNegativeButton(
                 "취소"
@@ -169,17 +176,15 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnMarker
             }
             val dialog = builder.create()
             dialog.show()
-             */
+
         }
 
         profileRetouch.setOnClickListener {
-            /*
+
             val intent = Intent(applicationContext, MyProfile::class.java)
             intent.putExtra("token", myToken)
             intent.putExtra("email", myEmail)
             startActivity(intent)
-
-             */
         }
         chatRoom.setOnClickListener {
             /*
@@ -197,16 +202,10 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnMarker
 
         mMap = googleMap
 
-        //런타임 퍼미션 요청 대화상자나 GPS 활성 요청 대화상자 보이기전에
-        //지도의 초기위치를 서울로 이동
 
         //런타임 퍼미션 요청 대화상자나 GPS 활성 요청 대화상자 보이기전에
         //지도의 초기위치를 서울로 이동
         setDefaultLocation()
-
-
-        //런타임 퍼미션 처리
-        // 1. 위치 퍼미션을 가지고 있는지 체크합니다.
 
 
         //런타임 퍼미션 처리

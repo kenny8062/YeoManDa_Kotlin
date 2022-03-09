@@ -20,6 +20,12 @@
         android:theme="@style/Theme.Yeomanda_Kotlin"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".chatpkg.ChatListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MyProfile"
+            android:exported="false" />
+        <activity
             android:name=".MyFavoriteTeamProfile"
             android:exported="false" />
         <activity

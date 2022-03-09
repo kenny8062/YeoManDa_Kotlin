@@ -20,12 +20,12 @@
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_button_study.xml"
     },
     {
-        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_r24_no_color.xml.flat",
-        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\r24_no_color.xml"
-    },
-    {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_disabled_check2.xml.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_disabled_check2.xml"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_r24_no_color.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\r24_no_color.xml"
     },
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sub_gray_button.xml.flat",
@@ -96,12 +96,12 @@
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable-xxhdpi\\select_sub_photo.png"
     },
     {
-        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_r50_solid_violet.xml.flat",
-        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\r50_solid_violet.xml"
-    },
-    {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calendar.xml.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_r50_solid_violet.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\r50_solid_violet.xml"
     },
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_chat_navigation.xml.flat",
@@ -122,6 +122,10 @@
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_select_sub_photo.png.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable-mdpi\\select_sub_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
     },
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_plus.xml.flat",

@@ -38,6 +38,9 @@
         android:theme="@style/Theme.Yeomanda_Kotlin"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.example.yeomanda_kotlin.MyProfile"
+            android:exported="false" />
+        <activity
             android:name="com.example.yeomanda_kotlin.MyFavoriteTeamProfile"
             android:exported="false" />
         <activity

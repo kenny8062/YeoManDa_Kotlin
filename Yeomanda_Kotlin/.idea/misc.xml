@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_chat_list.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_create_board.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_main.xml" value="0.1640625" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_my_favorite_list.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_my_favorite_team_profile.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_my_profile.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_person_info.xml" value="0.1640625" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_profile.xml" value="0.1640625" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_select_image.xml" value="0.1125" />

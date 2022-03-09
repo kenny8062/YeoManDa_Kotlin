@@ -67,7 +67,7 @@ interface RetrofitInterface {
     @GET("/menuBar/getProfile")
     fun getMyProfile(
         @Header("Authorization") userToken: String
-    ): Call<ProfileResponseDto?>
+    ): Call<ProfileResponseDto>
 
     //내 프로필 수정
     @Multipart

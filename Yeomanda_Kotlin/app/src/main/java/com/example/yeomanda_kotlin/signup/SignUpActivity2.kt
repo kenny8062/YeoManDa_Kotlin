@@ -59,11 +59,11 @@ class SignUpActivity2 : AppCompatActivity() {
 
         nextBtn.setOnClickListener {
             for (i in 0..2) {
-                selfimage[i] = prepareFilePart(
+                selfimage[i] = RetrofitService.prepareFilePart(
                     "files", uri[i]!!, applicationContext
                 )
             }
-            RetrofitService.retrofitInterface.uploadJoin(createPartFromString(joinDto.email!!),createPartFromString(joinDto.password!!),createPartFromString(joinDto.name!!),createPartFromString(joinDto.sex!!),createPartFromString(joinDto.birth!!),selfimage)
+            RetrofitService.retrofitInterface.uploadJoin(RetrofitService.createPartFromString(joinDto.email!!),RetrofitService.createPartFromString(joinDto.password!!),RetrofitService.createPartFromString(joinDto.name!!),RetrofitService.createPartFromString(joinDto.sex!!),RetrofitService.createPartFromString(joinDto.birth!!),selfimage)
                 .enqueue(object :
                     Callback<WithoutDataResponseDto>{
                     override fun onResponse(
@@ -100,26 +100,6 @@ class SignUpActivity2 : AppCompatActivity() {
     }
 
 
-    fun createPartFromString(descriptionString: String): RequestBody {
-        return RequestBody.create(
-            MediaType.parse("text/plain"), descriptionString
-        )
-    }
-    private fun getRealPathFromURI(contentUri: Uri, context: Context): String {
-        val proj = arrayOf(MediaStore.Images.Media.DATA)
-        val loader = CursorLoader(context, contentUri, proj, null, null, null)
-        val cursor = loader.loadInBackground()
-        val column_index = cursor!!.getColumnIndexOrThrow(MediaStore.Images.Media.DATA)
-        cursor.moveToFirst()
-        val result = cursor.getString(column_index)
-        cursor.close()
-        return result
-    }
-    fun prepareFilePart(partName: String, fileUri: Uri, context: Context): MultipartBody.Part {
-        val file= File(getRealPathFromURI(fileUri, context))
-        val requestFile = RequestBody.create(MediaType.parse("multipart/form-data"), file)
-        return MultipartBody.Part.createFormData(partName, file.name, requestFile)
-    }
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
 
         val multiOption =MultiTransformation(CenterCrop(), RoundedCorners(8))

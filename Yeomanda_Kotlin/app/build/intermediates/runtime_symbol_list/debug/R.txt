@@ -2866,6 +2866,7 @@ int id customPanel 0x7f09008b
 int id customTeamName 0x7f090201
 int id customTravelDate 0x7f090202
 int id cut 0x7f09008c
+int id cv_myMainImage 0x7f09022d
 int id dark 0x7f09008d
 int id date_picker_actions 0x7f09008e
 int id decelerate 0x7f09008f
@@ -2902,6 +2903,7 @@ int id easeIn 0x7f0900ab
 int id easeInOut 0x7f0900ac
 int id easeOut 0x7f0900ad
 int id east 0x7f0900ae
+int id editMyProfileBtn 0x7f09022e
 int id edit_query 0x7f0900af
 int id elastic 0x7f0900b0
 int id emailEdt 0x7f0901ee
@@ -2959,6 +2961,7 @@ int id ifRoom 0x7f0900da
 int id ignore 0x7f0900db
 int id ignoreRequest 0x7f0900dc
 int id image 0x7f0900dd
+int id image_edit_profile 0x7f09022f
 int id immediateStop 0x7f0900de
 int id included 0x7f0900df
 int id info 0x7f0900e0
@@ -3050,8 +3053,15 @@ int id mtrl_picker_text_input_range_start 0x7f09012c
 int id mtrl_picker_title_text 0x7f09012d
 int id mtrl_view_tag_bottom_padding 0x7f09012e
 int id multiply 0x7f09012f
+int id myBirth 0x7f090230
+int id myEmail 0x7f090231
 int id myFavoriteTeamListView 0x7f090228
 int id myFavoriteTeamProfileListView 0x7f090229
+int id myImage1 0x7f090232
+int id myImage2 0x7f090233
+int id myMainImage 0x7f090234
+int id myName 0x7f090235
+int id mySex 0x7f090236
 int id nameEdt 0x7f0901f4
 int id navigation_bar_item_active_indicator_view 0x7f090130
 int id navigation_bar_item_icon_container 0x7f090131
@@ -3352,6 +3362,7 @@ int layout activity_login 0x7f0c001c
 int layout activity_main 0x7f0c001d
 int layout activity_my_favorite_list 0x7f0c007e
 int layout activity_my_favorite_team_profile 0x7f0c007f
+int layout activity_my_profile 0x7f0c0082
 int layout activity_person_info 0x7f0c0078
 int layout activity_select_image 0x7f0c007a
 int layout activity_sign_up1 0x7f0c001e

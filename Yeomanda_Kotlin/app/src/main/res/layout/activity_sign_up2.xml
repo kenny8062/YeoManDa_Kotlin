@@ -7,7 +7,7 @@
     android:layout_marginStart="@dimen/spacing_xl"
     android:layout_marginEnd="@dimen/spacing_xl"
 
-    tools:context=".SignUp.SignUpActivity2">
+    tools:context=".signup.SignUpActivity2">
 
     <TextView
         android:id="@+id/joinProfileText"

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_select_image.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\activity_select_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_favorite_team_item.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\favorite_team_item.xml"
+    },
+    {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
@@ -152,6 +160,10 @@
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_game.xml"
     },
     {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_favorite_team_list_item.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\favorite_team_list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_disabled_check.xml.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_disabled_check.xml"
     },
@@ -218,6 +230,10 @@
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_caution.xml.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_caution.xml"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -336,6 +352,10 @@
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_black_rounded_rectangle.xml"
     },
     {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_favorite_list.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\activity_my_favorite_list.xml"
+    },
+    {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_2d.xml.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_2d.xml"
     },
@@ -394,6 +414,10 @@
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera_black.xml.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_camera_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_person_info.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\activity_person_info.xml"
     },
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_r4_stroke_line.xml.flat",
@@ -480,6 +504,10 @@
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_dark_gray_rounded_rectangle.xml"
     },
     {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_create_board.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\activity_create_board.xml"
+    },
+    {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\font_maplestory_bold.ttf.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\font\\maplestory_bold.ttf"
     },
@@ -490,6 +518,10 @@
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_plus_button.xml.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable\\ic_plus_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_my_favorite_team_profile.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\activity_my_favorite_team_profile.xml"
     },
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_calendar_images.png.flat",
@@ -558,6 +590,10 @@
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_select_sub_photo.png.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable-xhdpi\\select_sub_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_show_travelers.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\custom_show_travelers.xml"
     },
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_blue_lined_button.xml.flat",
@@ -630,6 +666,10 @@
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_main_icon.png.flat",
         "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\drawable-xxhdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_single_listview_item.xml.flat",
+        "source": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\src\\main\\res\\layout\\single_listview_item.xml"
     },
     {
         "merged": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_button_game.xml.flat",

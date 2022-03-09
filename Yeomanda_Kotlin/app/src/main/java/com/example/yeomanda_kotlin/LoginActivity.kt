@@ -10,9 +10,9 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
-import com.example.yeomanda_kotlin.Retrofit.ResponseDto.LoginResponseDto
-import com.example.yeomanda_kotlin.Retrofit.RetrofitService
-import com.example.yeomanda_kotlin.SignUp.SignUpActivity1
+import com.example.yeomanda_kotlin.retrofit.responsedto.LoginResponseDto
+import com.example.yeomanda_kotlin.retrofit.RetrofitService
+import com.example.yeomanda_kotlin.signup.SignUpActivity1
 import com.google.firebase.messaging.FirebaseMessaging
 import retrofit2.Call
 import retrofit2.Callback
@@ -58,6 +58,7 @@ class LoginActivity : AppCompatActivity() {
         joinBtn.setOnClickListener {
             var intent =Intent(this, SignUpActivity1::class.java)
             startActivity(intent)
+
         }
 
         loginBtn.setOnClickListener {
@@ -70,8 +71,8 @@ class LoginActivity : AppCompatActivity() {
                 ) {
                     var intent = Intent(applicationContext,MainActivity::class.java)
                     intent.apply {
-                        this.putExtra("token",fcmToken)
-                        this.putExtra("hasPlanned", response.body()?.hasPlanned)
+                        this.putExtra("token",response.body()?.data?.token)
+                        this.putExtra("hasPlanned", response.body()?.data?.hasPlanned)
                         this.putExtra("email",emailEdt.text.toString())
                     }
                     startActivity(intent)

@@ -8,7 +8,7 @@
     android:layout_marginRight="@dimen/spacing_xxl_3"
     android:layout_marginTop="@dimen/spacing_xxl_3"
     android:layout_marginBottom="@dimen/spacing_xxl_3"
-    tools:context=".SignUp.SignUpActivity1">
+    tools:context=".signup.SignUpActivity1">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

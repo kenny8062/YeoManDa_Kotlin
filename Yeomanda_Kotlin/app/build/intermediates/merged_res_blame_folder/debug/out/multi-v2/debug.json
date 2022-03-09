@@ -219,40 +219,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\values-v16_values-v16.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\LEO\\.gradle\\caches\\transforms-3\\a871abf261a1d943958f5333fdb3ed0e\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "121",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\LEO\\.gradle\\caches\\transforms-3\\b62df86180bdd9198003ce8c180760ec\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
             "map": [
                 {
@@ -282,6 +248,40 @@
                         "startOffsets": "55,124,193,263,337,413,472,543",
                         "endColumns": "68,68,69,73,75,58,70,67",
                         "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\LEO\\.gradle\\caches\\transforms-3\\a871abf261a1d943958f5333fdb3ed0e\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\LEO\\.gradle\\caches\\transforms-3\\b62df86180bdd9198003ce8c180760ec\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
@@ -957,21 +957,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\LEO\\.gradle\\caches\\transforms-3\\a871abf261a1d943958f5333fdb3ed0e\\transformed\\appcompat-1.4.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "112",
-                        "endOffsets": "163"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\values-ro_values-ro.arsc.flat",
             "map": [
                 {
@@ -1076,6 +1061,21 @@
                         "endLines": "6,34,35,36,37,56,57,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106",
                         "endColumns": "12,86,100,120,83,65,94,73,59,83,65,57,72,62,55,118,56,60,55,73,144,85,83,102,81,82,89,66,65,72,77,87,70,76,73,71,90,73,94,97,73,79,100,52,65,88,89,61,63,62,111,112,109,111,78",
                         "endOffsets": "321,3154,3255,3376,3460,6216,6311,6461,6521,6605,6671,6729,6802,6865,6921,7040,7097,7158,7214,7288,7433,7519,7603,7706,7788,7871,7961,8028,8094,8167,8245,8333,8404,8481,8555,8627,8718,8792,8887,8985,9059,9139,9240,9293,9359,9448,9538,9600,9664,9727,9839,9952,10062,10174,10253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\LEO\\Documents\\GitHub\\YeoManDa_Kotlin\\Yeomanda_Kotlin\\app\\build\\intermediates\\merged_res\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\LEO\\.gradle\\caches\\transforms-3\\a871abf261a1d943958f5333fdb3ed0e\\transformed\\appcompat-1.4.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
                     }
                 }
             ]

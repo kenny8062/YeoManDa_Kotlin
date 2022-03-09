@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:fillViewport="true"
+    android:layout_height="match_parent"
+    android:id="@+id/createBoardParentLayout"
+    tools:context=".CreateBoard">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+        <TextView
+            android:id="@+id/travelDateTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:text="여행 일자"
+            android:textSize="16sp"
+            android:layout_marginTop="26dp"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/travelDateTextView"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="26dp"
+            android:src="@drawable/calendar_images"
+            />
+
+        <LinearLayout
+            android:id="@+id/travelDateLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/travelDateTextView"
+            app:layout_constraintStart_toStartOf="parent"
+            android:weightSum="18"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/MyPlanYearStart"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="left"
+                android:layout_weight="4"
+                android:inputType="date"
+                android:hint="YYYY"/>
+
+            <EditText
+                android:id="@+id/MyPlanMonthStart"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="left"
+                android:layout_weight="2"
+                android:layout_marginStart="@dimen/spacing_xxs"
+                android:inputType="date"
+                android:hint="MM"
+                />
+            <EditText
+                android:id="@+id/MyPlanDayStart"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="left"
+                android:layout_weight="2"
+                android:layout_marginStart="@dimen/spacing_xxs"
+                android:inputType="date"
+                android:hint="DD"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:layout_marginStart="@dimen/spacing_xxs"
+                android:src="@drawable/wave"
+                />
+            <EditText
+                android:id="@+id/MyPlanYearEnd"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:layout_weight="4"
+                android:inputType="date"
+                android:layout_marginStart="@dimen/spacing_xxs"
+                android:hint="YYYY"
+                />
+
+            <EditText
+                android:id="@+id/MyPlanMonthEnd"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:layout_weight="2"
+                android:layout_marginStart="@dimen/spacing_xxs"
+                android:inputType="date"
+                android:hint="MM"
+                />
+
+            <EditText
+                android:id="@+id/MyPlanDayEnd"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:layout_weight="2"
+                android:inputType="date"
+                android:layout_marginStart="@dimen/spacing_xxs"
+                android:hint="DD"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="62dp"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toTopOf="@+id/createBtn"
+            app:layout_constraintTop_toBottomOf="@+id/travelDateLinearLayout">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="팀 이름"
+                android:textSize="16sp" />
+
+
+            <EditText
+                android:id="@+id/MyTeamName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="62dp"
+                android:text="여행 멤버"
+                android:textSize="16sp" />
+
+            <LinearLayout
+                android:id="@+id/ll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/MyTeamEmail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="aaa@aaa.com"
+                    android:inputType="textEmailAddress" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/cancelBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:backgroundTint="@color/gray"
+                    android:text="취소"
+                    android:textColor="@color/black"
+                    android:textSize="12sp" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <Button
+                    android:id="@+id/plusBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:backgroundTint="@color/gray"
+                    android:text="추가"
+                    android:textColor="@color/black"
+                    android:textSize="12sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/createBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:textSize="12sp"
+            android:text="등록"
+            android:textColor="@color/black"
+            android:backgroundTint="@color/gray"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

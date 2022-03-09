@@ -37,7 +37,25 @@
         android:testOnly="true"
         android:theme="@style/Theme.Yeomanda_Kotlin"
         android:usesCleartextTraffic="true" >
-        <activity android:name="com.example.yeomanda_kotlin.SignUp.SignUpActivity1" />
+        <activity
+            android:name="com.example.yeomanda_kotlin.MyFavoriteTeamProfile"
+            android:exported="false" />
+        <activity
+            android:name="com.example.yeomanda_kotlin.MyFavoriteList"
+            android:exported="false" />
+        <activity
+            android:name="com.example.yeomanda_kotlin.CreateBoard"
+            android:exported="false" />
+        <activity
+            android:name="com.example.yeomanda_kotlin.SelectImageActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.yeomanda_kotlin.chatpkg.ChatActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.yeomanda_kotlin.Profile"
+            android:exported="false" />
+        <activity android:name="com.example.yeomanda_kotlin.signup.SignUpActivity1" />
         <activity
             android:name="com.example.yeomanda_kotlin.LoginActivity"
             android:exported="true" >
@@ -48,8 +66,20 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.yeomanda_kotlin.MainActivity" />
-        <activity android:name="com.example.yeomanda_kotlin.SignUp.SignUpActivity2" />
+        <activity android:name="com.example.yeomanda_kotlin.signup.SignUpActivity2" />
 
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCSvlAjqpSSBQtfWQpjWQEo-BiRIb-lhuk" />
+
+        <service
+            android:name="com.example.yeomanda_kotlin.MyFirebaseMessagingService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"
             android:directBootAware="true"

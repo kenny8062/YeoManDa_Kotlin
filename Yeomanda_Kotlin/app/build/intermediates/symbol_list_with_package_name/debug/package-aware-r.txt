@@ -2830,7 +2830,15 @@ id chain
 id chain2
 id chains
 id chatBtn
+id chatEdt
+id chatListContent
+id chatListTeamName
+id chatListTime
+id chatListView
+id chatMessageLayout
+id chatMsgListView
 id chatRoom
+id chatmessage
 id checkbox
 id checked
 id chip
@@ -3030,6 +3038,7 @@ id month_navigation_next
 id month_navigation_previous
 id month_title
 id motion_base
+id msgTime
 id mtrl_anchor_parent
 id mtrl_calendar_day_selector_frame
 id mtrl_calendar_days_of_week
@@ -3155,6 +3164,8 @@ id selectPersonImage
 id select_dialog_listview
 id selected
 id selection_type
+id sendChatBtn
+id sendMsgLayout
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3252,6 +3263,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id userName
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3358,6 +3370,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_chat
+layout activity_chat_list
 layout activity_create_board
 layout activity_login
 layout activity_main
@@ -3368,6 +3381,8 @@ layout activity_person_info
 layout activity_select_image
 layout activity_sign_up1
 layout activity_sign_up2
+layout chat_list_item
+layout chatting_message_list_item
 layout custom_dialog
 layout custom_show_travelers
 layout design_bottom_navigation_item

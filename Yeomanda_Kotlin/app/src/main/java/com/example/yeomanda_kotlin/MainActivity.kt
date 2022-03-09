@@ -27,6 +27,7 @@ import com.example.yeomanda_kotlin.retrofit.responsedto.ProfileResponseDto
 import com.example.yeomanda_kotlin.retrofit.responsedto.WithoutDataResponseDto
 import com.example.yeomanda_kotlin.retrofit.RetrofitService
 import com.example.yeomanda_kotlin.chatpkg.ChatActivity
+import com.example.yeomanda_kotlin.chatpkg.ChatListActivity
 import com.google.android.gms.location.*
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
@@ -187,13 +188,13 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnMarker
             startActivity(intent)
         }
         chatRoom.setOnClickListener {
-            /*
+
             val chatIntent = Intent(applicationContext, ChatListActivity::class.java)
             chatIntent.putExtra("token", myToken)
             chatIntent.putExtra("myEmail", myEmail)
             startActivity(chatIntent)
 
-             */
+
         }
     }
 

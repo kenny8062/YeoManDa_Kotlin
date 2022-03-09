@@ -53,7 +53,7 @@
 26-->[com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\c915700d0a1f806153dd2ff4315da204\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:22-76
 27
 28    <application
-28-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:13:5-68:19
+28-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:13:5-71:19
 29        android:allowBackup="true"
 29-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:14:9-35
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -76,293 +76,299 @@
 39-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:21:9-44
 40        <activity
 40-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:22:9-24:40
-41            android:name="com.example.yeomanda_kotlin.MyProfile"
-41-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:23:13-38
+41            android:name="com.example.yeomanda_kotlin.chatpkg.ChatListActivity"
+41-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:23:13-53
 42            android:exported="false" />
 42-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:24:13-37
 43        <activity
 43-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:25:9-27:40
-44            android:name="com.example.yeomanda_kotlin.MyFavoriteTeamProfile"
-44-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:26:13-50
+44            android:name="com.example.yeomanda_kotlin.MyProfile"
+44-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:26:13-38
 45            android:exported="false" />
 45-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:27:13-37
 46        <activity
 46-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:28:9-30:40
-47            android:name="com.example.yeomanda_kotlin.MyFavoriteList"
-47-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:29:13-43
+47            android:name="com.example.yeomanda_kotlin.MyFavoriteTeamProfile"
+47-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:29:13-50
 48            android:exported="false" />
 48-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:30:13-37
 49        <activity
 49-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:31:9-33:40
-50            android:name="com.example.yeomanda_kotlin.CreateBoard"
-50-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:32:13-40
+50            android:name="com.example.yeomanda_kotlin.MyFavoriteList"
+50-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:32:13-43
 51            android:exported="false" />
 51-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:33:13-37
 52        <activity
 52-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:34:9-36:40
-53            android:name="com.example.yeomanda_kotlin.SelectImageActivity"
-53-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:35:13-48
+53            android:name="com.example.yeomanda_kotlin.CreateBoard"
+53-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:35:13-40
 54            android:exported="false" />
 54-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:36:13-37
 55        <activity
 55-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:37:9-39:40
-56            android:name="com.example.yeomanda_kotlin.chatpkg.ChatActivity"
-56-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:38:13-49
+56            android:name="com.example.yeomanda_kotlin.SelectImageActivity"
+56-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:38:13-48
 57            android:exported="false" />
 57-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:39:13-37
 58        <activity
 58-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:40:9-42:40
-59            android:name="com.example.yeomanda_kotlin.Profile"
-59-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:41:13-36
+59            android:name="com.example.yeomanda_kotlin.chatpkg.ChatActivity"
+59-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:41:13-49
 60            android:exported="false" />
 60-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:42:13-37
-61        <activity android:name="com.example.yeomanda_kotlin.signup.SignUpActivity1" />
-61-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:43:9-60
-61-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:43:19-57
-62        <activity
-62-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:44:9-52:20
-63            android:name="com.example.yeomanda_kotlin.LoginActivity"
-63-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:45:13-42
-64            android:exported="true" >
-64-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:46:13-36
-65            <intent-filter>
-65-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:47:13-51:29
-66                <action android:name="android.intent.action.MAIN" />
-66-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:48:17-69
-66-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:48:25-66
-67
-68                <category android:name="android.intent.category.LAUNCHER" />
-68-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:50:17-77
-68-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:50:27-74
-69            </intent-filter>
-70        </activity>
-71        <activity android:name="com.example.yeomanda_kotlin.MainActivity" />
-71-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:53:9-50
-71-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:53:19-47
-72        <activity android:name="com.example.yeomanda_kotlin.signup.SignUpActivity2" />
-72-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:54:9-60
-72-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:54:19-57
-73
-74        <meta-data
-74-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:56:9-58:71
-75            android:name="com.google.android.geo.API_KEY"
-75-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:57:13-58
-76            android:value="AIzaSyCSvlAjqpSSBQtfWQpjWQEo-BiRIb-lhuk" />
-76-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:58:13-68
-77
-78        <service
-78-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:60:9-67:19
-79            android:name="com.example.yeomanda_kotlin.MyFirebaseMessagingService"
-79-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:61:13-55
-80            android:exported="false" >
-80-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:62:13-37
-81            <intent-filter>
-81-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:63:13-66:29
-82                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-82-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:64:17-78
-82-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:64:25-75
-83                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-83-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:65:17-80
-83-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:65:25-77
-84            </intent-filter>
-85        </service>
-86        <service
-86-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:8:9-14:19
-87            android:name="com.google.firebase.components.ComponentDiscoveryService"
-87-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:9:13-84
-88            android:directBootAware="true"
-88-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
-89            android:exported="false" >
-89-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:10:13-37
-90            <meta-data
-90-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:11:13-13:85
-91                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
-91-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:12:17-126
-92                android:value="com.google.firebase.components.ComponentRegistrar" />
-92-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:13:17-82
+61        <activity
+61-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:43:9-45:40
+62            android:name="com.example.yeomanda_kotlin.Profile"
+62-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:44:13-36
+63            android:exported="false" />
+63-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:45:13-37
+64        <activity android:name="com.example.yeomanda_kotlin.signup.SignUpActivity1" />
+64-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:46:9-60
+64-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:46:19-57
+65        <activity
+65-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:47:9-55:20
+66            android:name="com.example.yeomanda_kotlin.LoginActivity"
+66-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:48:13-42
+67            android:exported="true" >
+67-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:49:13-36
+68            <intent-filter>
+68-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:50:13-54:29
+69                <action android:name="android.intent.action.MAIN" />
+69-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:51:17-69
+69-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:51:25-66
+70
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:53:17-77
+71-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:53:27-74
+72            </intent-filter>
+73        </activity>
+74        <activity android:name="com.example.yeomanda_kotlin.MainActivity" />
+74-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:56:9-50
+74-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:56:19-47
+75        <activity android:name="com.example.yeomanda_kotlin.signup.SignUpActivity2" />
+75-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:57:9-60
+75-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:57:19-57
+76
+77        <meta-data
+77-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:59:9-61:71
+78            android:name="com.google.android.geo.API_KEY"
+78-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:60:13-58
+79            android:value="AIzaSyCSvlAjqpSSBQtfWQpjWQEo-BiRIb-lhuk" />
+79-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:61:13-68
+80
+81        <service
+81-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:63:9-70:19
+82            android:name="com.example.yeomanda_kotlin.MyFirebaseMessagingService"
+82-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:64:13-55
+83            android:exported="false" >
+83-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:65:13-37
+84            <intent-filter>
+84-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:66:13-69:29
+85                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+85-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:67:17-78
+85-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:67:25-75
+86                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+86-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:68:17-80
+86-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:68:25-77
+87            </intent-filter>
+88        </service>
+89        <service
+89-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:8:9-14:19
+90            android:name="com.google.firebase.components.ComponentDiscoveryService"
+90-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:9:13-84
+91            android:directBootAware="true"
+91-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+92            android:exported="false" >
+92-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:10:13-37
 93            <meta-data
-93-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\58f163f5aee3b788bfafa9753e7e9dd7\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
-94                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
-94-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\58f163f5aee3b788bfafa9753e7e9dd7\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+93-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:11:13-13:85
+94                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
+94-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:12:17-126
 95                android:value="com.google.firebase.components.ComponentRegistrar" />
-95-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\58f163f5aee3b788bfafa9753e7e9dd7\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+95-->[com.google.firebase:firebase-analytics-ktx:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\3ff6b028d792d9ed4e2e04fe6cde6a96\transformed\jetified-firebase-analytics-ktx-20.1.0\AndroidManifest.xml:13:17-82
 96            <meta-data
-96-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:52:13-54:85
-97                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-97-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:53:17-119
+96-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\58f163f5aee3b788bfafa9753e7e9dd7\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+97                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+97-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\58f163f5aee3b788bfafa9753e7e9dd7\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
 98                android:value="com.google.firebase.components.ComponentRegistrar" />
-98-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:54:17-82
+98-->[com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\58f163f5aee3b788bfafa9753e7e9dd7\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
 99            <meta-data
-99-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\659296cbc1cdfa2fae0e29e12b58007d\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
-100                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-100-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\659296cbc1cdfa2fae0e29e12b58007d\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
+99-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:52:13-54:85
+100                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+100-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:53:17-119
 101                android:value="com.google.firebase.components.ComponentRegistrar" />
-101-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\659296cbc1cdfa2fae0e29e12b58007d\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
+101-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:54:17-82
 102            <meta-data
-102-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\4cc4f8599461d70c5ff73e6b0a8f41ed\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:30:13-32:85
-103                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-103-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\4cc4f8599461d70c5ff73e6b0a8f41ed\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:31:17-139
+102-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\659296cbc1cdfa2fae0e29e12b58007d\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
+103                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+103-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\659296cbc1cdfa2fae0e29e12b58007d\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:29:17-115
 104                android:value="com.google.firebase.components.ComponentRegistrar" />
-104-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\4cc4f8599461d70c5ff73e6b0a8f41ed\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:32:17-82
+104-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\659296cbc1cdfa2fae0e29e12b58007d\transformed\jetified-firebase-datatransport-18.0.0\AndroidManifest.xml:30:17-82
 105            <meta-data
-105-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1ce2e202f5552186badff4fdbeb7d65c\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
-106                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-106-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1ce2e202f5552186badff4fdbeb7d65c\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+105-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\4cc4f8599461d70c5ff73e6b0a8f41ed\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:30:13-32:85
+106                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+106-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\4cc4f8599461d70c5ff73e6b0a8f41ed\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:31:17-139
 107                android:value="com.google.firebase.components.ComponentRegistrar" />
-107-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1ce2e202f5552186badff4fdbeb7d65c\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
-108        </service> <!-- Needs to be explicitly declared on P+ -->
-109        <uses-library
-109-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1a5e73a0d55cc581b590185378980b69\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
-110            android:name="org.apache.http.legacy"
-110-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1a5e73a0d55cc581b590185378980b69\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
-111            android:required="false" />
-111-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1a5e73a0d55cc581b590185378980b69\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
-112
-113        <receiver
-113-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:28:9-35:20
-114            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-114-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:29:13-78
-115            android:exported="true"
-115-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:30:13-36
-116            android:permission="com.google.android.c2dm.permission.SEND" >
-116-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:31:13-73
-117            <intent-filter>
-117-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:32:13-34:29
-118                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-118-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:33:17-81
-118-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:33:25-78
-119            </intent-filter>
-120        </receiver>
-121        <!--
-122             FirebaseMessagingService performs security checks at runtime,
-123             but set to not exported to explicitly avoid allowing another app to call it.
-124        -->
-125        <service
-125-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:41:9-48:19
-126            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-126-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:42:13-82
-127            android:directBootAware="true"
-127-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:43:13-43
-128            android:exported="false" >
-128-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:44:13-37
-129            <intent-filter android:priority="-500" >
-129-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:45:13-47:29
-129-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:45:28-51
-130                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-130-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:64:17-78
-130-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:64:25-75
-131            </intent-filter>
-132        </service>
-133        <service
-133-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
-134            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-134-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
-135            android:exported="false" >
-135-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
-136            <meta-data
-136-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
-137                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-137-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
-138                android:value="cct" />
-138-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
-139        </service>
-140
-141        <provider
-141-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
-142            android:name="com.google.firebase.provider.FirebaseInitProvider"
-142-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
-143            android:authorities="com.example.yeomanda_kotlin.firebaseinitprovider"
-143-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
-144            android:directBootAware="true"
-144-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
-145            android:exported="false"
-145-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
-146            android:initOrder="100" />
-146-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
-147
-148        <activity
-148-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\dfffac101d03089f130cf4490d63de01\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-149            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-149-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\dfffac101d03089f130cf4490d63de01\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-150            android:exported="false"
-150-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\dfffac101d03089f130cf4490d63de01\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-151            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-151-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\dfffac101d03089f130cf4490d63de01\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-152
-153        <receiver
-153-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:29:9-33:20
-154            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-154-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:30:13-85
-155            android:enabled="true"
-155-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:31:13-35
-156            android:exported="false" >
-156-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:32:13-37
-157        </receiver>
-158
-159        <service
-159-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:35:9-38:40
-160            android:name="com.google.android.gms.measurement.AppMeasurementService"
-160-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:36:13-84
-161            android:enabled="true"
-161-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:37:13-35
-162            android:exported="false" />
-162-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:38:13-37
-163        <service
-163-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:39:9-43:72
-164            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-164-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:40:13-87
-165            android:enabled="true"
-165-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:41:13-35
-166            android:exported="false"
-166-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:42:13-37
-167            android:permission="android.permission.BIND_JOB_SERVICE" />
-167-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:43:13-69
-168
-169        <meta-data
-169-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\5010614ff3c867d7e34318ae1cef6ac8\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-170            android:name="com.google.android.gms.version"
-170-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\5010614ff3c867d7e34318ae1cef6ac8\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-171            android:value="@integer/google_play_services_version" />
-171-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\5010614ff3c867d7e34318ae1cef6ac8\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-172
-173        <provider
-173-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-174            android:name="androidx.startup.InitializationProvider"
-174-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-175            android:authorities="com.example.yeomanda_kotlin.androidx-startup"
-175-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-176            android:exported="false" >
-176-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-177            <meta-data
-177-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-178                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-178-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-179                android:value="androidx.startup" />
-179-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+107-->[com.google.android.gms:play-services-measurement-api:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\4cc4f8599461d70c5ff73e6b0a8f41ed\transformed\jetified-play-services-measurement-api-20.1.0\AndroidManifest.xml:32:17-82
+108            <meta-data
+108-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1ce2e202f5552186badff4fdbeb7d65c\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+109                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+109-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1ce2e202f5552186badff4fdbeb7d65c\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1ce2e202f5552186badff4fdbeb7d65c\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+111        </service> <!-- Needs to be explicitly declared on P+ -->
+112        <uses-library
+112-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1a5e73a0d55cc581b590185378980b69\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+113            android:name="org.apache.http.legacy"
+113-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1a5e73a0d55cc581b590185378980b69\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+114            android:required="false" />
+114-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\1a5e73a0d55cc581b590185378980b69\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+115
+116        <receiver
+116-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:28:9-35:20
+117            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+117-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:29:13-78
+118            android:exported="true"
+118-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:30:13-36
+119            android:permission="com.google.android.c2dm.permission.SEND" >
+119-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:31:13-73
+120            <intent-filter>
+120-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:32:13-34:29
+121                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+121-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:33:17-81
+121-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:33:25-78
+122            </intent-filter>
+123        </receiver>
+124        <!--
+125             FirebaseMessagingService performs security checks at runtime,
+126             but set to not exported to explicitly avoid allowing another app to call it.
+127        -->
+128        <service
+128-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:41:9-48:19
+129            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+129-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:42:13-82
+130            android:directBootAware="true"
+130-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:43:13-43
+131            android:exported="false" >
+131-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:44:13-37
+132            <intent-filter android:priority="-500" >
+132-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:45:13-47:29
+132-->[com.google.firebase:firebase-messaging:23.0.0] C:\Users\LEO\.gradle\caches\transforms-3\54b3c36d2ceabad1b0bb45128d4e380d\transformed\jetified-firebase-messaging-23.0.0\AndroidManifest.xml:45:28-51
+133                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+133-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:67:17-78
+133-->C:\Users\LEO\Documents\GitHub\YeoManDa_Kotlin\Yeomanda_Kotlin\app\src\main\AndroidManifest.xml:67:25-75
+134            </intent-filter>
+135        </service>
+136        <service
+136-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+137            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+137-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+138            android:exported="false" >
+138-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+139            <meta-data
+139-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+140                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+140-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+141                android:value="cct" />
+141-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\41dff9e21dc36b23156514241652b141\transformed\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+142        </service>
+143
+144        <provider
+144-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+145            android:name="com.google.firebase.provider.FirebaseInitProvider"
+145-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+146            android:authorities="com.example.yeomanda_kotlin.firebaseinitprovider"
+146-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+147            android:directBootAware="true"
+147-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+148            android:exported="false"
+148-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+149            android:initOrder="100" />
+149-->[com.google.firebase:firebase-common:20.0.0] C:\Users\LEO\.gradle\caches\transforms-3\b3403c78f1416697fc7f198624176ec5\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+150
+151        <activity
+151-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\dfffac101d03089f130cf4490d63de01\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+152            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+152-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\dfffac101d03089f130cf4490d63de01\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+153            android:exported="false"
+153-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\dfffac101d03089f130cf4490d63de01\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+154            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+154-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\LEO\.gradle\caches\transforms-3\dfffac101d03089f130cf4490d63de01\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+155
+156        <receiver
+156-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:29:9-33:20
+157            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+157-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:30:13-85
+158            android:enabled="true"
+158-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:31:13-35
+159            android:exported="false" >
+159-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:32:13-37
+160        </receiver>
+161
+162        <service
+162-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:35:9-38:40
+163            android:name="com.google.android.gms.measurement.AppMeasurementService"
+163-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:36:13-84
+164            android:enabled="true"
+164-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:37:13-35
+165            android:exported="false" />
+165-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:38:13-37
+166        <service
+166-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:39:9-43:72
+167            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+167-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:40:13-87
+168            android:enabled="true"
+168-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:41:13-35
+169            android:exported="false"
+169-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:42:13-37
+170            android:permission="android.permission.BIND_JOB_SERVICE" />
+170-->[com.google.android.gms:play-services-measurement:20.1.0] C:\Users\LEO\.gradle\caches\transforms-3\0bc8f5781d0780ad3b7fc51f4e181bb3\transformed\jetified-play-services-measurement-20.1.0\AndroidManifest.xml:43:13-69
+171
+172        <meta-data
+172-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\5010614ff3c867d7e34318ae1cef6ac8\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+173            android:name="com.google.android.gms.version"
+173-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\5010614ff3c867d7e34318ae1cef6ac8\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+174            android:value="@integer/google_play_services_version" />
+174-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\LEO\.gradle\caches\transforms-3\5010614ff3c867d7e34318ae1cef6ac8\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+175
+176        <provider
+176-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+177            android:name="androidx.startup.InitializationProvider"
+177-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+178            android:authorities="com.example.yeomanda_kotlin.androidx-startup"
+178-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+179            android:exported="false" >
+179-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
 180            <meta-data
-180-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LEO\.gradle\caches\transforms-3\02c7adc57a98c3c8ffc7eeb7164a50e3\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-181                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-181-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LEO\.gradle\caches\transforms-3\02c7adc57a98c3c8ffc7eeb7164a50e3\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+180-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+181                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+181-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
 182                android:value="androidx.startup" />
-182-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LEO\.gradle\caches\transforms-3\02c7adc57a98c3c8ffc7eeb7164a50e3\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-183        </provider>
-184
-185        <service
-185-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
-186            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-186-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
-187            android:exported="false"
-187-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
-188            android:permission="android.permission.BIND_JOB_SERVICE" >
-188-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
-189        </service>
-190
-191        <receiver
-191-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
-192            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-192-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
-193            android:exported="false" />
-193-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
-194    </application>
-195
-196</manifest>
+182-->[androidx.emoji2:emoji2:1.0.0] C:\Users\LEO\.gradle\caches\transforms-3\990fdbdc5d8b4dd56f5188edb490de3a\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+183            <meta-data
+183-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LEO\.gradle\caches\transforms-3\02c7adc57a98c3c8ffc7eeb7164a50e3\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+184                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+184-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LEO\.gradle\caches\transforms-3\02c7adc57a98c3c8ffc7eeb7164a50e3\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+185                android:value="androidx.startup" />
+185-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\LEO\.gradle\caches\transforms-3\02c7adc57a98c3c8ffc7eeb7164a50e3\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+186        </provider>
+187
+188        <service
+188-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+189            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+189-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+190            android:exported="false"
+190-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+191            android:permission="android.permission.BIND_JOB_SERVICE" >
+191-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+192        </service>
+193
+194        <receiver
+194-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+195            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+195-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+196            android:exported="false" />
+196-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\LEO\.gradle\caches\transforms-3\7366969e7435efa96be0e3e0031133c8\transformed\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+197    </application>
+198
+199</manifest>

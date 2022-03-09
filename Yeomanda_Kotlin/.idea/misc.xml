@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_chat.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_chat_list.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_create_board.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_main.xml" value="0.1640625" />
@@ -14,6 +15,8 @@
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_select_image.xml" value="0.1125" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_sign_up1.xml" value="0.12817028985507245" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/activity_sign_up2.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/chat_list_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/chatting_message_list_item.xml" value="0.25" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/custom_show_travelers.xml" value="0.1640625" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/favorite_team_item.xml" value="0.25364583333333335" />
         <entry key="..\:/Users/LEO/Documents/GitHub/YeoManDa_Kotlin/Yeomanda_Kotlin/app/src/main/res/layout/favorite_team_list_item.xml" value="0.25364583333333335" />

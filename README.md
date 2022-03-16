@@ -1,5 +1,7 @@
 # YeoManDa_Kotlin
 Kotlin 공부를 위해 Java 버전으로 짜놓은 프로젝트를 Kotlin언어로 변경한 버전이다.
+# Java Version
+https://github.com/jjmmll0727/yeomanda
 # 바뀐점
 언어만 바꾼게 아니라 Retrofit2를 이용할 때 이전에는 execute()를 사용했던걸 enqueue()로 바꾸었다.
 먼저 execute는 동기적 행동을 한다. 하지만 안드로이드 개발 제약상 서버와의 통신을 MainThread에서 할 수 없었다. 그래서 새로운 thread를 추가하여 서버와 통신을 했다.
@@ -12,4 +14,4 @@ enqueue는 함수 실행시 바로 백그라운드로 넘겨서 작업을 하기
 
 # 느낀점
 enqueue로 코드를 바꿈으로서 Activity가 코드가 더 길어져서 더 무거워진것이 보였다. 이는 나중에 유지보수와 수정을 할 때 불편함을 겪을 수 있다.
-그래서 다음번에는 MVVM 구조를 공부 한 뒤 MVVM 구조로 다시 개발을 해볼 예정이다.
+그래서 다음번에는 MVVM 구조를 공부 한 뒤 MVVM 구조로 다시 개발을 해 볼 예정이다.

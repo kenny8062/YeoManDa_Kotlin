@@ -7,8 +7,8 @@ import javax.mail.MessagingException
 import javax.mail.SendFailedException
 
 class SendMail : AppCompatActivity() {
-    var user = "hangichan97@gmail.com" // 보내는 계정의 id
-    var password = "gksrlcks1@" // 보내는 계정의 pw
+    var user = "id" // 보내는 계정의 id
+    var password = "password" // 보내는 계정의 pw
     fun sendSecurityCode(context: Context?, sendTo: String?): String? {
         try {
             val gMailSender = GmailSender(user, password)
